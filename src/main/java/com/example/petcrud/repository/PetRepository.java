@@ -1,6 +1,6 @@
 package com.example.petcrud.repository;
 
-import com.example.petcrud.model.Pet;
+
 import com.example.petcrud.entity.Pet;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;

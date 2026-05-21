@@ -1,6 +1,6 @@
 package com.example.petcrud.controller;
 
-import com.example.petcrud.model.Pet;
+import com.example.petcrud.entity.Pet;
 import com.example.petcrud.service.PetService;
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;

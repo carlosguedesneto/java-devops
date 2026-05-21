@@ -1,6 +1,6 @@
 package com.example.petcrud.service;
 
-import com.example.petcrud.model.Pet;
+import com.example.petcrud.entity.Pet;
 import com.example.petcrud.repository.PetRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
