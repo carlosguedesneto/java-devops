@@ -12,10 +12,9 @@
     </parent>
 
     <groupId>com.example</groupId>
-    <artifactId>pet-crud</artifactId>
-    <version>1.0.0</version>
-    <name>pet-crud</name>
-    <description>CRUD de Pets com Spring Boot</description>
+    <artifactId>nexus-verde</artifactId>
+    <name>Nexus Verde</name>
+    <description>Sistema de monitoramento florestal com IA e minissatélites</description>
 
     <properties>
         <java.version>17</java.version>
