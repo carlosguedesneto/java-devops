@@ -1,6 +1,0 @@
-com\example\petcrud\PetCrudApplication.class
-com\example\petcrud\repository\PetRepository.class
-com\example\petcrud\service\PetService.class
-com\example\petcrud\controller\PetController.class
-com\example\petcrud\model\Pet.class
-com\example\petcrud\model\Pet$PetBuilder.class
